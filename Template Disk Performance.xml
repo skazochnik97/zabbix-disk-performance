@@ -29,7 +29,7 @@
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>custom.vfs.dev.discovery/key>
+                    <key>custom.vfs.dev.discovery</key>
                     <delay>3600</delay>
                     <status>0</status>
                     <allowed_hosts/>
